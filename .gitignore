@@ -1,0 +1,14 @@
+# python
+*.pyc
+*~
+__pycache__
+
+
+# venv
+venv/
+
+
+# Database
+db.sqlite3
+
+
